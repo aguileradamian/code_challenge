@@ -1,4 +1,5 @@
 ## Code Challenge
+##### Autor: Damian Aguilera
 
 Este modulo de Terraform creará los siguientes recursos en una cuenta de AWS.
 * Cuatro funciones Lambda, una para cada entidad (Albums, Tracks y Artists) y una adicional para crear las tablas en la base de datos.
